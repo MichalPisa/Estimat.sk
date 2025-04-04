@@ -59,6 +59,7 @@
         </section>
         <section>
             <h2>Kontakt</h2>
+            <p><strong>Ing. Michal Pisarčík</strong>
             <p><strong>Telefón:</strong> +421 948 315 881</p>
             <p><strong>Email:</strong> estimat@estimat.sk</p>
         </section>
