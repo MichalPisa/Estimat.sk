@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="sk">
 <head>
     <meta charset="UTF-8">
@@ -53,15 +52,15 @@
             <h2>Naše služby</h2>
             <ul>
                 <li>Odhad stavebných nákladov</li>
+                <li>Tvorba výkazov výmer</li>
                 <li>Kalkulácie rozpočtov</li>
-                <li>Poradenstvo v oblasti cien stavebných materiálov</li>
+                <li>Poradenstvo v oblasti cien </li>
             </ul>
         </section>
         <section>
             <h2>Kontakt</h2>
-            <p><strong>Adresa:</strong> Oravské Veselé 700</p>
-            <p><strong>Telefón:</strong> +421 900 123 456</p>
-            <p><strong>Email:</strong> info@estimat.sk</p>
+            <p><strong>Telefón:</strong> +421 948 315 881</p>
+            <p><strong>Email:</strong> estimat@estimat.sk</p>
         </section>
     </div>
     <footer>
