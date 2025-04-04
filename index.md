@@ -67,5 +67,3 @@
     <footer> 
         &copy; 2025 Estimat - Všetky práva vyhradené
     </footer>
-</body>
-</html>
