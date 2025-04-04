@@ -40,7 +40,7 @@
 </head>
 <body>
     <header>
-        <h1>Estimat</h1>
+        <h1>Estimat s.r.o.</h1>
         <p>Profesionálne stavebné cenárstvo</p>
     </header>
     <div class="container">
