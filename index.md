@@ -41,7 +41,7 @@
 <body>
     <header>
         <h1>Estimat s.r.o.</h1>
-        <p>Profesionálne stavebné cenárstvo</p>
+        <p>Stavebné cenárstvo</p>
     </header>
     <div class="container">
         <section>
@@ -51,10 +51,10 @@
         <section>
             <h2>Naše služby</h2>
             <ul>
-                <li>odhad stavebných nákladov</li>
-                <li>tvorba výkazov výmer</li>
-                <li>kalkulácie rozpočtov</li>
-                <li>poradenstvo v oblasti cien </li>
+                <li>odhad stavebných nákladov,</li>
+                <li>tvorba výkazov výmer,</li>
+                <li>kalkulácie rozpočtov,</li>
+                <li>poradenstvo v oblasti cien... </li>
             </ul>
         </section>
         <section>
@@ -62,7 +62,7 @@
             <p><strong>Ing. Michal Pisarčík</strong>
             <p><strong>Telefón:</strong> +421 948 315 881</p>
             <p><strong>Email:</strong> estimat@estimat.sk</p>
-            <p>Adresa: Orvaské Veselé 700, Orvské Veselé, 029 62 </p>
+            <p>Orvaské Veselé 700, Orvské Veselé, 029 62 </p>
             <p>IČO: 55 645 640 </p>
             <p>DIČ: 2122046685 </p>
     <footer> 
