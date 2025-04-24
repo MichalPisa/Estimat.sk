@@ -1,71 +1,94 @@
 <!DOCTYPE html>
 <html lang="sk">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Estimat - Stavebné cenárstvo</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-        }
-        header {
-            background: #0056b3;
-            color: white;
-            padding: 20px 0;
-            text-align: center;
-        }
-        section {
-            padding: 20px;
-            background: white;
-            margin: 20px 0;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        footer {
-            background: #222;
-            color: white;
-            text-align: center;
-            padding: 10px;
-            margin-top: 20px;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Estimat - Stavebné cenárstvo</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+    header {
+      background: #ffffff;
+      padding: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    header img.logo {
+      height: 50px;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #333;
+      font-weight: bold;
+    }
+    .hero {
+      background: url('/mnt/data/Estimat%20bazos%20AI.png') no-repeat center center/cover;
+      height: 500px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      color: white;
+      position: relative;
+    }
+    .hero::before {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.5);
+    }
+    .hero h1 {
+      position: relative;
+      font-size: 3em;
+      z-index: 1;
+    }
+    .content {
+      padding: 40px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #eee;
+      font-size: 0.9em;
+    }
+  </style>
 </head>
 <body>
-    <header>
-        <h1>Estimat</h1>
-        <p>Profesionálne stavebné cenárstvo</p>
-    </header>
-    <div class="container">
-        <section>
-            <h2>O nás</h2>
-            <p>Spoločnosť Estimat poskytuje odborné služby v oblasti stavebného cenárstva. Našou prioritou je presnosť a spoľahlivosť.</p>
-        </section>
-        <section>
-            <h2>Naše služby</h2>
-            <ul>
-                <li>Odhad stavebných nákladov</li>
-                <li>Kalkulácie rozpočtov</li>
-                <li>Poradenstvo v oblasti cien stavebných materiálov</li>
-            </ul>
-        </section>
-        <section>
-            <h2>Kontakt</h2>
-            <p><strong>Adresa:</strong> Oravské Veselé 700</p>
-            <p><strong>Telefón:</strong> +421 900 123 456</p>
-            <p><strong>Email:</strong> info@estimat.sk</p>
-        </section>
-    </div>
-    <footer>
-        &copy; 2025 Estimat - Všetky práva vyhradené
-    </footer>
+  <header>
+    <img src="/mnt/data/Estimat%20n%C3%A1zov.png" alt="Estimat logo" class="logo">
+    <nav>
+      <a href="#sluzby">Služby</a>
+      <a href="#kontakt">Kontakt</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h1>Profesionálne stavebné cenárstvo</h1>
+  </section>
+
+  <section class="content" id="sluzby">
+    <h2>Naše služby</h2>
+    <p>Spoločnosť Estimat sa špecializuje na vypracovanie rozpočtov, výkazov výmer a cenových odhadov pre malé aj veľké stavebné projekty. Ponúkame individuálny prístup a odborné poradenstvo pre investorov, stavebné firmy aj projektantov.</p>
+  </section>
+
+  <section class="content" id="kontakt">
+    <h2>Kontakt</h2>
+    <p><strong>Sídlo:</strong> Oravské Veselé 700<br>
+    <strong>Telefón:</strong> +421 900 000 000<br>
+    <strong>Email:</strong> info@estimat.sk</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Estimat. Všetky práva vyhradené.
+  </footer>
 </body>
 </html>
