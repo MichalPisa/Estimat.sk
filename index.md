@@ -62,7 +62,7 @@
             <p><strong>Ing. Michal Pisarčík</strong>
             <p><strong>Telefón:</strong> +421 948 315 881</p>
             <p><strong>Email:</strong> estimat@estimat.sk</p>
-            <p>Orvaské Veselé 700, Orvské Veselé, 029 62 </p>
+            <p>Orvaské Veselé 700, Oravské Veselé, 029 62 </p>
             <p>IČO: 55 645 640 </p>
             <p>DIČ: 2122046685 </p>
     <footer> 
