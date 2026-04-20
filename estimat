@@ -80,6 +80,13 @@
     <p>Spoločnosť Estimat sa špecializuje na vypracovanie rozpočtov, výkazov výmer a cenových odhadov pre malé aj veľké stavebné projekty. Ponúkame individuálny prístup a odborné poradenstvo pre investorov, stavebné firmy aj projektantov.</p>
   </section>
 
+  <section class="content" id="referencie">
+    <h2>Referencie</h2>
+    <p><strong>stavba 1:</strong> Stavba 1<br>
+    <strong>Stavba 2</strong> stavba 2<br>
+    <strong>Stavba 3</strong> Stavba 3</p>
+  </section>
+
   <section class="content" id="kontakt">
     <h2>Kontakt</h2>
     <p><strong>Sídlo:</strong> Oravské Veselé 700<br>
@@ -88,7 +95,7 @@
   </section>
 
   <footer>
-    &copy; 2025 Estimat. Všetky práva vyhradené.
+    &copy; 2026 Estimat. Všetky práva vyhradené.
   </footer>
 </body>
 </html>
